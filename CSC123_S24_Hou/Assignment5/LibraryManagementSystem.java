@@ -1,4 +1,3 @@
-package managementSystem;
 
 import java.util.*;
 
